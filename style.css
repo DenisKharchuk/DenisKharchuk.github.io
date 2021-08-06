@@ -1,0 +1,13 @@
+body {
+    font-family: arial;
+    font-size: 15px;
+    color:#00058b
+}
+.title {
+    font-family: Arial;
+    color: #000;
+    text-align: center;
+}
+.str {
+    color: #f50000;
+}

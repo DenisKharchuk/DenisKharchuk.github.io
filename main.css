@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    font-size: 18 px;
+    line-height: 1.5;
+    color: #333;
+    font-family: sans-serif;
+    background: url(https://images.wallpaperscraft.ru/image/fon_temnyy_pyatna_linii_51861_1280x720.jpg);
+}
+
+h1 {
+    margin-top: 50px;
+    margin-bottom: 10px;
+    font-size: 60px;
+    text-align: center;
+}
+
+h2 {
+    margin-top: 0px;
+    padding-bottom: 30px;
+    font-size: 25px;
+    text-align: center;
+    border-bottom: 2px solid #e3e3e3;
+}
+
+main {
+    width: 900px;
+    margin: auto;
+    color: white;
+}
+
+section {
+    margin: 50px 0px;
+    padding: 0px 50px;
+    border: 2px solid #e3e3e3;
+    border-radius: 70px 0px;
+    text-align: center;
+    background-clip: content-box;
+    background: url(https://images.wallpaperscraft.ru/image/fon_kapli_svet_krugi_siniy_83428_1280x720.jpg);
+}
+
+section h2 {
+    padding: 0px;
+    text-align: left;
+    border: none;
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+    margin-top: 10px;
+}
